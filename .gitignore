@@ -1,0 +1,14 @@
+/local/
+*.local.json
+*.local.ps1
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+auth.json
+.credentials.json
+*.exe
+*.zip
